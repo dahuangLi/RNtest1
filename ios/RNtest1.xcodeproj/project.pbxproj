@@ -22,9 +22,12 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
+<<<<<<< HEAD
 		1C8156E9215CB512009BF364 /* MyModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8156E8215CB512009BF364 /* MyModule.swift */; };
 		1C8156EC215CB5BD009BF364 /* MyModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C8156EB215CB5BD009BF364 /* MyModule.m */; };
 		1C8156EE215CCFD0009BF364 /* UIController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8156ED215CCFD0009BF364 /* UIController.swift */; };
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -37,7 +40,10 @@
 		2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */; };
 		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* RNtest1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNtest1Tests.m */; };
+<<<<<<< HEAD
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
@@ -135,6 +141,7 @@
 			remoteGlobalIDString = 3DBE0D0D1F3B181C0099AA32;
 			remoteInfo = "fishhook-tvOS";
 		};
+<<<<<<< HEAD
 		2DF0FFDE2056DD460020B375 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 146833FF1AC3E56700842450 /* React.xcodeproj */;
@@ -191,6 +198,8 @@
 			remoteGlobalIDString = 9936F32F1F5F2E5B0010BF04;
 			remoteInfo = "privatedata-tvOS";
 		};
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 		3DAD3E831DF850E9000B6D8A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 00C302BB1ABCB91800DB3ED1 /* RCTImage.xcodeproj */;
@@ -339,10 +348,13 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RNtest1/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RNtest1/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		1C8156E8215CB512009BF364 /* MyModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModule.swift; sourceTree = "<group>"; };
 		1C8156EA215CB562009BF364 /* RNtest1-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RNtest1-Bridging-Header.h"; sourceTree = "<group>"; };
 		1C8156EB215CB5BD009BF364 /* MyModule.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyModule.m; sourceTree = "<group>"; };
 		1C8156ED215CCFD0009BF364 /* UIController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIController.swift; sourceTree = "<group>"; };
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 		2D02E47B1E0B4A5D006451C7 /* RNtest1-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RNtest1-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* RNtest1-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RNtest1-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -400,7 +412,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */,
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -491,15 +506,21 @@
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
+<<<<<<< HEAD
 				1C8156EA215CB562009BF364 /* RNtest1-Bridging-Header.h */,
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
+<<<<<<< HEAD
 				1C8156E8215CB512009BF364 /* MyModule.swift */,
 				1C8156EB215CB5BD009BF364 /* MyModule.m */,
 				1C8156ED215CCFD0009BF364 /* UIController.swift */,
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 			);
 			name = RNtest1;
 			sourceTree = "<group>";
@@ -508,13 +529,17 @@
 			isa = PBXGroup;
 			children = (
 				146834041AC3E56700842450 /* libReact.a */,
+<<<<<<< HEAD
 				3DAD3EA31DF850E9000B6D8A /* libReact.a */,
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				3DAD3EA51DF850E9000B6D8A /* libyoga.a */,
 				3DAD3EA71DF850E9000B6D8A /* libyoga.a */,
 				3DAD3EA91DF850E9000B6D8A /* libcxxreact.a */,
 				3DAD3EAB1DF850E9000B6D8A /* libcxxreact.a */,
 				3DAD3EAD1DF850E9000B6D8A /* libjschelpers.a */,
 				3DAD3EAF1DF850E9000B6D8A /* libjschelpers.a */,
+<<<<<<< HEAD
 				2DF0FFDF2056DD460020B375 /* libjsinspector.a */,
 				2DF0FFE12056DD460020B375 /* libjsinspector-tvOS.a */,
 				2DF0FFE32056DD460020B375 /* libthird-party.a */,
@@ -523,6 +548,9 @@
 				2DF0FFE92056DD460020B375 /* libdouble-conversion.a */,
 				2DF0FFEB2056DD460020B375 /* libprivatedata.a */,
 				2DF0FFED2056DD460020B375 /* libprivatedata-tvOS.a */,
+=======
+				3DAD3EA31DF850E9000B6D8A /* libReact-tvOS.a */,
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -703,11 +731,14 @@
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
+<<<<<<< HEAD
 					13B07F861A680F5B00A75B9A = {
 						DevelopmentTeam = 3Z7L47RD45;
 						LastSwiftMigration = 0940;
 						ProvisioningStyle = Automatic;
 					};
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
@@ -868,6 +899,7 @@
 			remoteRef = 2D16E6851FA4F8DC00B85C8A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+<<<<<<< HEAD
 		2DF0FFDF2056DD460020B375 /* libjsinspector.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
@@ -924,6 +956,8 @@
 			remoteRef = 2DF0FFEC2056DD460020B375 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 		3DAD3E841DF850E9000B6D8A /* libRCTImage-tvOS.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
@@ -966,10 +1000,17 @@
 			remoteRef = 3DAD3E981DF850E9000B6D8A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+<<<<<<< HEAD
 		3DAD3EA31DF850E9000B6D8A /* libReact.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = libReact.a;
+=======
+		3DAD3EA31DF850E9000B6D8A /* libReact-tvOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libReact-tvOS.a";
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 			remoteRef = 3DAD3EA21DF850E9000B6D8A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
@@ -1131,10 +1172,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+<<<<<<< HEAD
 				1C8156EC215CB5BD009BF364 /* MyModule.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 				1C8156E9215CB512009BF364 /* MyModule.swift in Sources */,
 				1C8156EE215CCFD0009BF364 /* UIController.swift in Sources */,
+=======
+				13B07FC11A68108700A75B9A /* main.m in Sources */,
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1186,14 +1231,21 @@
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+<<<<<<< HEAD
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = RNtest1Tests/Info.plist;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"-ObjC",
@@ -1207,11 +1259,18 @@
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+<<<<<<< HEAD
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				INFOPLIST_FILE = RNtest1Tests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+=======
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COPY_PHASE_STRIP = NO;
+				INFOPLIST_FILE = RNtest1Tests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"-ObjC",
@@ -1226,6 +1285,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+<<<<<<< HEAD
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
@@ -1234,6 +1294,11 @@
 				DEVELOPMENT_TEAM = 3Z7L47RD45;
 				INFOPLIST_FILE = RNtest1/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+=======
+				CURRENT_PROJECT_VERSION = 1;
+				DEAD_CODE_STRIPPING = NO;
+				INFOPLIST_FILE = RNtest1/Info.plist;
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -1241,10 +1306,13 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = RNtest1;
+<<<<<<< HEAD
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "RNtest1-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1253,6 +1321,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+<<<<<<< HEAD
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
@@ -1260,6 +1329,10 @@
 				DEVELOPMENT_TEAM = 3Z7L47RD45;
 				INFOPLIST_FILE = RNtest1/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+=======
+				CURRENT_PROJECT_VERSION = 1;
+				INFOPLIST_FILE = RNtest1/Info.plist;
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -1267,9 +1340,12 @@
 					"-lc++",
 				);
 				PRODUCT_NAME = RNtest1;
+<<<<<<< HEAD
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "RNtest1-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -1339,10 +1415,13 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "RNtest1-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+<<<<<<< HEAD
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
 				);
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNtest1-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
@@ -1364,10 +1443,13 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "RNtest1-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+<<<<<<< HEAD
 				OTHER_LDFLAGS = (
 					"-ObjC",
 					"-lc++",
 				);
+=======
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNtest1-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
@@ -1410,7 +1492,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -1445,7 +1531,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+<<<<<<< HEAD
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+=======
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;

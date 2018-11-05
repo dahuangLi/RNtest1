@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 node_modules/
 ios/
 yarn.lock
+=======
+/node_modules
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8

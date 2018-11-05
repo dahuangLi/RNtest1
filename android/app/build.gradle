@@ -94,6 +94,7 @@ def enableSeparateBuildPerCPUArchitecture = false
 def enableProguardInReleaseBuilds = false
 
 android {
+<<<<<<< HEAD
     compileSdkVersion rootProject.ext.compileSdkVersion
     buildToolsVersion rootProject.ext.buildToolsVersion
 
@@ -101,6 +102,15 @@ android {
         applicationId "com.rntest1"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
+=======
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.rntest1"
+        minSdkVersion 16
+        targetSdkVersion 22
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
         versionCode 1
         versionName "1.0"
         ndk {
@@ -138,7 +148,11 @@ android {
 
 dependencies {
     compile fileTree(dir: "libs", include: ["*.jar"])
+<<<<<<< HEAD
     compile "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
+=======
+    compile "com.android.support:appcompat-v7:23.0.1"
+>>>>>>> 613d124149ef8211d9cbb49813c7a67db40e35d8
     compile "com.facebook.react:react-native:+"  // From node_modules
 }
 
